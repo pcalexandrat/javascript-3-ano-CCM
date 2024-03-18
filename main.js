@@ -11,3 +11,4 @@ for(let i=0; i<botoes.length; i++){
 
     }
 }
+const botoes = document.querySelectorAll(".conteudo");
