@@ -12,3 +12,5 @@ for(let i=0; i<botoes.length; i++){
     }
 }
 const botoes = document.querySelectorAll(".conteudo");
+const tempoobjetivo1 = new Date(2024)
+contadores[0].textContent = 
