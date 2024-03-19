@@ -10,5 +10,3 @@ for(let i=0; i<botoes.length; i++){
         textos[i].classList.add("ativo");
     }
 }
-const botoes = document.querySelectorAll(".conteudo");
-
